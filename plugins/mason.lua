@@ -33,4 +33,7 @@ return {
       })
     end,
   },
+  {
+    "rebelot/kanagawa.nvim",
+  },
 }

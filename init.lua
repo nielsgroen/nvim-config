@@ -1,3 +1,6 @@
+vim.opt.termguicolors = true
+
+
 return {
   -- Configure AstroNvim updates
   updater = {
